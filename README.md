@@ -1,0 +1,1 @@
+This repository demonstrates a common closure-related bug in Javascript.  The provided `bug.js` file contains code that produces unexpected results due to how closures work in Javascript with `setTimeout` and loops. The solution is shown in `bugSolution.js`.
